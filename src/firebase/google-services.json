@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "114033305340",
+    "project_id": "smart-attendence-system-cedfd",
+    "storage_bucket": "smart-attendence-system-cedfd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114033305340:android:6cb80afe85264cf2d3d979",
+        "android_client_info": {
+          "package_name": "sr.com.reactnaive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114033305340-fmudhjl04legub6jqbd0oicf5jro1fgc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0cQAH8uTQIPk9WxxVVYJVjpelF_7u2FY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114033305340-fmudhjl04legub6jqbd0oicf5jro1fgc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
