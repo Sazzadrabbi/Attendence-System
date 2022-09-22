@@ -5,12 +5,14 @@ import {getAuth} from "firebase/auth";
 import {getFirestore} from "firebase/firestore";
 
 const firebaseConfig = {
-	apiKey: "AIzaSyA-GG5YjWSKqAnalhkFGOCw2I0bp-uDHH0",
-	authDomain: "attendence-bff21.firebaseapp.com",
-	projectId: "attendence-bff21",
-	storageBucket: "attendence-bff21.appspot.com",
-	messagingSenderId: "447680457137",
-	appId: "1:447680457137:web:799389a37bb4bd47fab590",
+	apiKey: "AIzaSyAu_P6e0Zo9IHjW5lXCPgLhGnnv5qAumAc",
+  authDomain: "smart-attendence-system-cedfd.firebaseapp.com",
+  databaseURL: "https://smart-attendence-system-cedfd-default-rtdb.asia-southeast1.firebasedatabase.app",
+  projectId: "smart-attendence-system-cedfd",
+  storageBucket: "smart-attendence-system-cedfd.appspot.com",
+  messagingSenderId: "114033305340",
+  appId: "1:114033305340:web:51e6d932d654aff5d3d979",
+  measurementId: "G-9S37V439CS"
 };
 
 const app = initializeApp(firebaseConfig);
